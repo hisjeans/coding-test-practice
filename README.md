@@ -1,4 +1,4 @@
-# programmers-coding-test-practice
+# coding-test-practice
 프로그래머스, 백준 코딩테스트 문제 풀이 모음
 프로그래머스 및 백준 코딩테스트 문제들을 풀어나가는 저장소입니다.
 
